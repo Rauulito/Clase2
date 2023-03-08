@@ -1,6 +1,11 @@
 h1 {
-    color: pink;
+    color: greenyellow;
     text-decoration: underline;
+}
+
+span {
+    color: red;
+    font-weight: bold;
 }
 
 p {
